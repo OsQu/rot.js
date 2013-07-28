@@ -5268,3 +5268,5 @@ ROT.Path.AStar.prototype._distance = function(x, y) {
 		break;
 	}
 }
+
+module.exports = ROT;
